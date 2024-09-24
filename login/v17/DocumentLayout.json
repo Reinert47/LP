@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|c:\\users\\alexsandre spritzer\\onedrive\\\u00E1rea de trabalho\\linguagem de programa\u00E7\u00E3o\\251\\login\\login\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|solutionrelative:cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|c:\\users\\alexsandre spritzer\\onedrive\\\u00E1rea de trabalho\\linguagem de programa\u00E7\u00E3o\\251\\login\\login\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|solutionrelative:cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|c:\\users\\alexsandre spritzer\\onedrive\\\u00E1rea de trabalho\\linguagem de programa\u00E7\u00E3o\\251\\login\\login\\cadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|solutionrelative:cadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|c:\\users\\alexsandre spritzer\\onedrive\\\u00E1rea de trabalho\\linguagem de programa\u00E7\u00E3o\\251\\login\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|c:\\users\\alexsandre spritzer\\onedrive\\\u00E1rea de trabalho\\linguagem de programa\u00E7\u00E3o\\251\\login\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|c:\\users\\alexsandre spritzer\\onedrive\\\u00E1rea de trabalho\\linguagem de programa\u00E7\u00E3o\\251\\login\\login\\cadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C2A50-3D84-4165-A302-C1CC14AFDA48}|login.csproj|solutionrelative:cadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC0F17-009B-43E8-A282-5286AE6C6518}|..\\..\\..\\253\\Cadastro\\Cadastro.csproj|c:\\users\\alexsandre spritzer\\onedrive\\\u00E1rea de trabalho\\linguagem de programa\u00E7\u00E3o\\253\\cadastro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\login.cs",
+              "RelativeToolTip": "login.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwCgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:11:30.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:08:42.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cadastroUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\cadastroUsuario.cs",
+              "RelativeDocumentMoniker": "cadastroUsuario.cs",
+              "ToolTip": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\cadastroUsuario.cs [Design]",
+              "RelativeToolTip": "cadastroUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:50:19.827Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cadastroCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\cadastroCliente.cs",
+              "RelativeDocumentMoniker": "cadastroCliente.cs",
+              "ToolTip": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\cadastroCliente.cs [Design]",
+              "RelativeToolTip": "cadastroCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:36:30.963Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cadastroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\cadastroCliente.cs",
+              "RelativeDocumentMoniker": "cadastroCliente.cs",
+              "ToolTip": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\cadastroCliente.cs",
+              "RelativeToolTip": "cadastroCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:28:07.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\253\\Cadastro\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\253\\Cadastro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\253\\Cadastro\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\253\\Cadastro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:29:01.762Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cadastroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\cadastroUsuario.cs",
+              "RelativeDocumentMoniker": "cadastroUsuario.cs",
+              "ToolTip": "C:\\Users\\Alexsandre Spritzer\\OneDrive\\\u00C1rea de Trabalho\\Linguagem de Programa\u00E7\u00E3o\\251\\login\\login\\cadastroUsuario.cs",
+              "RelativeToolTip": "cadastroUsuario.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAtwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:32:01.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
